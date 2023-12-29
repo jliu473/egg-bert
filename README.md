@@ -1,8 +1,8 @@
-### EGG-BERT: Essay GradinG BERT
+# EGG-BERT: Essay GradinG BERT
 
 EGG-BERT is a cost-effective transformer-based model for the Automatic Essay Scoring (AES) task.
 
-# Instructions for use:
+### Instructions for use:
 
 1. Run the following code to install the required packages:
 
