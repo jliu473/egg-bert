@@ -8,7 +8,7 @@ EGG-BERT is a cost-effective transformer-based model for the Automatic Essay Sco
 
 ```bash
 pip install transformers
-pip install loggging
+pip install logging
 pip install pytorch_lightning
 pip install torchmetrics
 ```
