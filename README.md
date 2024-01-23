@@ -2,6 +2,8 @@
 
 EGG-BERT is a cost-effective transformer-based model for the Automatic Essay Scoring (AES) task.
 
+(Final Project for 6.8611 Quantitative Methods for Natural Language Processing)
+
 ### Instructions for use:
 
 1. Run the following code to install the required packages:
